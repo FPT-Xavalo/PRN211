@@ -1,0 +1,2 @@
+C:\Users\Admin\Downloads\PhongNT-FPTU-Learning-Resources-5.0\PhongNT-FPTU-Learning-Resources-5.0\2021_Semester5_SUMMER\PRN211\Code Project\ADO.NET\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\net5.0\StoredProcedureDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PhongNT-FPTU-Learning-Resources-5.0\PhongNT-FPTU-Learning-Resources-5.0\2021_Semester5_SUMMER\PRN211\Code Project\ADO.NET\StoredProcedureDemo\StoredProcedureDemo\obj\Debug\net5.0\StoredProcedureDemo.GeneratedMSBuildEditorConfig.editorconfig
