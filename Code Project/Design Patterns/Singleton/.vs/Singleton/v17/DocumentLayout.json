@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\PhongNT-FPTU-Learning-Resources-5.0\\PhongNT-FPTU-Learning-Resources-5.0\\2021_Semester5_SUMMER\\PRN211\\Code Project\\Design Patterns\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22F1DA-3AD7-4289-9CBA-368B5EB98CB5}|Singleton\\Singleton.csproj|c:\\users\\admin\\downloads\\phongnt-fptu-learning-resources-5.0\\phongnt-fptu-learning-resources-5.0\\2021_semester5_summer\\prn211\\code project\\design patterns\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22F1DA-3AD7-4289-9CBA-368B5EB98CB5}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\PhongNT-FPTU-Learning-Resources-5.0\\PhongNT-FPTU-Learning-Resources-5.0\\2021_Semester5_SUMMER\\PRN211\\Code Project\\Design Patterns\\Singleton\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\PhongNT-FPTU-Learning-Resources-5.0\\PhongNT-FPTU-Learning-Resources-5.0\\2021_Semester5_SUMMER\\PRN211\\Code Project\\Design Patterns\\Singleton\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T06:47:16.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
